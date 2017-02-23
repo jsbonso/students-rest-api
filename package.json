@@ -4,8 +4,8 @@
   "description": "Simple Nodejs RESTful API",
   "main": "index.js",
   "scripts": {
-    "test": "test",
-    "start": "node app.js"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
