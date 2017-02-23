@@ -1,0 +1,24 @@
+{
+  "name": "students-rest-api",
+  "version": "1.0.0",
+  "description": "Simple Nodejs RESTful API",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsbonso/students-rest-api.git"
+  },
+  "keywords": [
+    "nodejs",
+    "students",
+    "tutorialsdojo"
+  ],
+  "author": "Jon Bonso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsbonso/students-rest-api/issues"
+  },
+  "homepage": "https://github.com/jsbonso/students-rest-api#readme"
+}
